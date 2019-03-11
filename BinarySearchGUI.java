@@ -1,4 +1,4 @@
-/** A GUI for a Library management program.
+/** A GUI for a Guessing Game program.
   * Based on various sources.
   *
   * @author Michael Buescher for Hathaway Brown APCS
